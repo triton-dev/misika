@@ -10,7 +10,7 @@ A törzskártyák, vonalkóddal ellátott kártyák lesznek.
 - ügyfelek külön felületen tudják nyomkövetni a kártya egyenlegét
 --------------------------------------------------------------------------------------------------------------------------------------
 # Boncolgassuk mit is akar:
-## vonalkóddal ellátott kártya:
+## - Vonalkóddal ellátott kártya:
 ### Kérdések:
 * milyen kártya 
   * valamilyen papír alapú, helyben készülő, vagy előre gyártott…
@@ -19,7 +19,7 @@ A törzskártyák, vonalkóddal ellátott kártyák lesznek.
   * hogy kerül a kártyára
   * helyben nyomtatják, vagy előre nyomott etikettet ragasztanak fel, stb…
       
-## kártyák kezelése cégen belül:
+## - Kártyák kezelése cégen belül:
 ### Kérdések:
 * ki rögzítheti a kártyát
 * hány felhasználót, milyen jogosultsági körrel kell kezelni
@@ -30,14 +30,14 @@ A törzskártyák, vonalkóddal ellátott kártyák lesznek.
 * lesz-e valamilyen automatizmus, pl behajtáskor lehúzza az ügyfél egy szkenner előtt és az eszköz automatikusan
     küldi az információt, vagy ember végzi ugyan ezt
       
-## pre-paid funkció:
+## - Pre-paid funkció:
 ### Kérdések:
   *	**nyugta, vagy számla adás nem feladat!**
   * mikor kerül levonásra a szolgáltatás díja és ki végzi ezt el
   * mi történik akkor, ha a kártyán nincs elegendő összeg
   * hogyan rögzítik a kedvezményt, és mikor lehet érvényesíteni
  
-## egyenleg nyomonkövetés
+## - Egyenleg nyomonkövetés
 ### Kérdések:
   * elég megadni a kártya számát, vagy kell-e még egyéb adat is
   * elveszett kártya kezelése
